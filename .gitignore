@@ -1,0 +1,7 @@
+__pycache__
+.venv
+xgb_model.json
+synth_data.csv
+feature_importance.png
+NN_accuracy.png
+NN_log_loss.png
